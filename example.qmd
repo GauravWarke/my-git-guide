@@ -15,4 +15,13 @@ mean(x)
 
 ## Summary Statistics
 
+<<<<<<< HEAD
 This version was written on main and will conflict with testbranch.
+=======
+This section was added on testbranch.
+
+```{r}
+## Summary Statistics
+summary(cars)
+```
+>>>>>>> testbranch
